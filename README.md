@@ -1,16 +1,127 @@
-# challenge_engine_app
+🏆 Gamified Financial Challenge App
 
-A new Flutter project.
+A Flutter-based interactive savings & financial habit–building application.
 
-## Getting Started
+📌 Overview
 
-This project is a starting point for a Flutter application.
+This project is a gamified financial challenge engine designed to help users build healthy financial habits through interactive challenges, daily progress tracking, and community engagement. Built entirely with Flutter, the app emphasizes clean architecture, responsive UI, and an engaging user experience.
 
-A few resources to get you started if this is your first Flutter project:
+🎯 Project Objective
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+The primary goal of this application is to empower users to:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Explore challenges across a variety of financial categories
+
+Join savings or habit-building challenges
+
+Complete daily tasks and visually track progress
+
+View personalized performance insights and ratings
+
+Engage with community-based challenges and compete/play along
+
+🛠️ Technical Highlights
+Framework
+
+Flutter (Dart)
+
+Architecture
+
+Clean MVC (Model-View-Controller) structure
+
+Modular folder organization (controllers, models, views, services)
+
+State Management
+
+Provider for lightweight, scalable state handling
+
+🎨 UI & UX Design
+Branding & Theme
+
+Custom theme using green & white palette
+
+Consistent design language across screens
+
+Navigation
+
+Bottom navigation bar for smooth multi-screen navigation
+
+Components
+
+Horizontally scrolling challenge cards
+
+Category filter chips for quick filtering
+
+Icons, badges & visual markers for challenge types
+
+Dynamic progress bars
+
+Rating indicators based on user performance
+
+⭐ Core Features
+🔹 Challenge Discovery
+
+Browse challenges across multiple financial categories with horizontal scroll cards and filters.
+
+🔹 Join Challenge Flow
+
+Users can join any challenge
+
+Daily tasks become available once joined
+
+Progress is tracked automatically
+
+🔹 Daily Task Completion
+
+Mark daily progress
+
+Automatically updates progress bar and rating
+
+🔹 My Challenges
+
+Separate sections for Active and Completed challenges
+
+View personal stats & accomplishments
+
+🔹 Community Challenges
+
+Interactive community challenges
+
+Horizontal scrolling lists with category filter chips
+
+📁 Project Structure
+
+A simplified structure (MVC + Provider):
+
+lib/
+│
+├── models/
+├── views/
+├── controllers/
+├── providers/
+├── widgets/
+├── services/
+└── main.dart
+
+🚀 Getting Started
+Prerequisites
+
+Flutter SDK installed
+
+Dart enabled
+
+Android Studio / VS Code
+
+Installation
+git clone <your-repo-url>
+cd project-folder
+flutter pub get
+flutter run
+
+🤝 Contribution
+
+Feel free to contribute by submitting issues, feature requests, or pull requests.
+
+📜 License
+
+This project is available under your chosen license (MIT, Apache, etc.). Update this section according
