@@ -1,0 +1,324 @@
+{
+  "categories": [
+    {
+      "category": "Spending Swap Challenges",
+      "icon": "💸",
+      "challenges": [
+        {
+          "id": "no_takeout_tuesdays",
+          "title": "No Takeout Tuesdays",
+          "description": "Cook at home once a week — save £10+ per meal.",
+          "duration_days": 7,
+          "suggested_savings": 15,
+          "type": "Solo",
+          "badge": "Takeout Terminator",
+          "icon": "🍔",
+          "is_joined": false,
+          "progress": 0.0,
+          "rating": 0.0
+        },
+        {
+          "id": "cancel_and_save",
+          "title": "Cancel & Save",
+          "description": "Pause one unused subscription this month — save £7–£15 instantly.",
+          "duration_days": 30,
+          "suggested_savings": 15,
+          "type": "Solo",
+          "badge": "Subscription Saver",
+          "icon": "🧾",
+          "is_joined": false,
+          "progress": 0.0,
+          "rating": 0.0
+        },
+        {
+          "id": "no_spend_3days",
+          "title": "3-Day No Spend Streak",
+          "description": "Buy nothing but essentials for 3 days — test your willpower!",
+          "duration_days": 3,
+          "suggested_savings": 15,
+          "type": "Solo",
+          "badge": "Spending Smasher",
+          "icon": "🚫💰",
+          "is_joined": false,
+          "progress": 0.0,
+          "rating": 0.0
+        },
+        {
+          "id": "skip_the_uber",
+          "title": "Skip the Uber",
+          "description": "Walk or cycle 3 short trips this week — save £20 + stay active.",
+          "duration_days": 7,
+          "suggested_savings": 20,
+          "type": "Solo/Community",
+          "badge": "Eco Walker",
+          "icon": "🚶‍♂️",
+          "is_joined": false,
+          "progress": 0.0,
+          "rating": 0.0
+        }
+      ]
+    },
+
+    {
+      "category": "Health + Money Challenges",
+      "icon": "🍎",
+      "challenges": [
+        {
+          "id": "ditch_delivery",
+          "title": "Ditch the Delivery",
+          "description": "Bring lunch from home 3 days a week — save £18+ and skip 1,200+ calories.",
+          "duration_days": 7,
+          "suggested_savings": 18,
+          "type": "Solo",
+          "badge": "Healthy Saver",
+          "icon": "🥗",
+          "is_joined": false,
+          "progress": 0.0,
+          "rating": 0.0
+        },
+        {
+          "id": "skip_sugary_snacks",
+          "title": "Skip Sugary Snacks",
+          "description": "No vending machine snacks for 5 days — save £6 and break the sugar habit!",
+          "duration_days": 5,
+          "suggested_savings": 6,
+          "type": "Solo",
+          "badge": "Sugar Cutter",
+          "icon": "🍫",
+          "is_joined": false,
+          "progress": 0.0,
+          "rating": 0.0
+        },
+        {
+          "id": "brew_at_home",
+          "title": "Brew-at-Home Week",
+          "description": "No takeaway coffee for 7 days — save £15 and build a mindful morning routine.",
+          "duration_days": 7,
+          "suggested_savings": 15,
+          "type": "Solo/Community",
+          "badge": "Coffee Cutter",
+          "icon": "☕",
+          "is_joined": false,
+          "progress": 0.0,
+          "rating": 0.0
+        },
+        {
+          "id": "walk_it_off",
+          "title": "Walk It Off",
+          "description": "Skip one Uber or bus ride a day — move more, save £10/week.",
+          "duration_days": 7,
+          "suggested_savings": 10,
+          "type": "Community",
+          "badge": "Walker Pro",
+          "icon": "👟",
+          "is_joined": false,
+          "progress": 0.0,
+          "rating": 0.0
+        }
+      ]
+    },
+
+    {
+      "category": "Goal-Driven Challenges",
+      "icon": "🎯",
+      "challenges": [
+        {
+          "id": "goal_streak",
+          "title": "Goal Streak: 7 Days of Saving",
+          "description": "Add even £1 daily to your savings for 7 days — build consistency.",
+          "duration_days": 7,
+          "suggested_savings": 7,
+          "type": "Solo",
+          "badge": "Consistency Champ",
+          "icon": "📈",
+          "is_joined": false,
+          "progress": 0.0,
+          "rating": 0.0
+        },
+        {
+          "id": "sacrifice_donate",
+          "title": "Sacrifice & Donate",
+          "description": "Skip one impulse buy this week and donate that money to a cause.",
+          "duration_days": 7,
+          "suggested_savings": 10,
+          "type": "Solo/Community",
+          "badge": "Charity Hero",
+          "icon": "❤️",
+          "is_joined": false,
+          "progress": 0.0,
+          "rating": 0.0
+        },
+        {
+          "id": "fast_25",
+          "title": "Fast £25 Challenge",
+          "description": "Save £25 in one week by skipping small daily spends.",
+          "duration_days": 7,
+          "suggested_savings": 25,
+          "type": "Solo",
+          "badge": "Quick Saver",
+          "icon": "💷",
+          "is_joined": false,
+          "progress": 0.0,
+          "rating": 0.0
+        },
+        {
+          "id": "payday_split",
+          "title": "Payday Split",
+          "description": "Move 10% of your next income to your goal fund.",
+          "duration_days": 30,
+          "suggested_savings": 0,
+          "type": "Solo",
+          "badge": "Smart Splitter",
+          "icon": "💰",
+          "is_joined": false,
+          "progress": 0.0,
+          "rating": 0.0
+        }
+      ]
+    },
+
+    {
+      "category": "Social & Community Challenges",
+      "icon": "🤝",
+      "challenges": [
+        {
+          "id": "save_together",
+          "title": "Save Together Mode",
+          "description": "Join friends to save £100 together for a trip or goal.",
+          "duration_days": 14,
+          "suggested_savings": 100,
+          "type": "Community",
+          "badge": "Team Saver",
+          "icon": "👥",
+          "is_joined": false,
+          "progress": 0.0,
+          "rating": 0.0
+        },
+        {
+          "id": "shared_goal",
+          "title": "Shared Goal Challenge",
+          "description": "Pick a team goal (concert, charity) and hit the target together.",
+          "duration_days": 14,
+          "suggested_savings": 50,
+          "type": "Community",
+          "badge": "Goal Getter",
+          "icon": "🎟️",
+          "is_joined": false,
+          "progress": 0.0,
+          "rating": 0.0
+        },
+        {
+          "id": "group_no_spend",
+          "title": "Group No-Spend Weekend",
+          "description": "Buy only essentials Fri–Sun — see who lasts longest!",
+          "duration_days": 3,
+          "suggested_savings": 15,
+          "type": "Community",
+          "badge": "Frugal Friend",
+          "icon": "🙌",
+          "is_joined": false,
+          "progress": 0.0,
+          "rating": 0.0
+        },
+        {
+          "id": "charity_skip",
+          "title": "Charity Challenge: Skip & Give",
+          "description": "Skip one indulgence and donate to a shared cause.",
+          "duration_days": 7,
+          "suggested_savings": 10,
+          "type": "Community",
+          "badge": "Kindness Champ",
+          "icon": "🎗️",
+          "is_joined": false,
+          "progress": 0.0,
+          "rating": 0.0
+        },
+        {
+          "id": "coffee_crew",
+          "title": "Coffee Crew Challenge",
+          "description": "5 people, 5 days, no takeout coffee. Team streak wins!",
+          "duration_days": 5,
+          "suggested_savings": 15,
+          "type": "Community",
+          "badge": "Crew Champ",
+          "icon": "☕",
+          "is_joined": false,
+          "progress": 0.0,
+          "rating": 0.0
+        }
+      ]
+    },
+
+    {
+      "category": "Seasonal / Campaign Challenges",
+      "icon": "🌿",
+      "challenges": [
+        {
+          "id": "dry_january",
+          "title": "Dry January Wallet",
+          "description": "Skip alcohol for 2 weeks, save £30.",
+          "duration_days": 14,
+          "suggested_savings": 30,
+          "type": "Solo",
+          "badge": "Fresh Start",
+          "icon": "🍷🚫",
+          "is_joined": false,
+          "progress": 0.0,
+          "rating": 0.0
+        },
+        {
+          "id": "green_saver",
+          "title": "Green Saver Challenge",
+          "description": "Walk instead of Uber 3x/week.",
+          "duration_days": 7,
+          "suggested_savings": 10,
+          "type": "Solo",
+          "badge": "Eco Hero",
+          "icon": "🌱",
+          "is_joined": false,
+          "progress": 0.0,
+          "rating": 0.0
+        },
+        {
+          "id": "holiday_fund_boost",
+          "title": "Holiday Fund Boost",
+          "description": "Add £5/day to your savings this week.",
+          "duration_days": 7,
+          "suggested_savings": 35,
+          "type": "Solo",
+          "badge": "Holiday Hero",
+          "icon": "🎁",
+          "is_joined": false,
+          "progress": 0.0,
+          "rating": 0.0
+        },
+        {
+          "id": "no_takeout_freshers",
+          "title": "No Takeout Freshers Week",
+          "description": "Avoid takeout for 5 days, save £25.",
+          "duration_days": 5,
+          "suggested_savings": 25,
+          "type": "Solo",
+          "badge": "Freshers Saver",
+          "icon": "🥡",
+          "is_joined": false,
+          "progress": 0.0,
+          "rating": 0.0
+        },
+        {
+          "id": "gift_fund_goal",
+          "title": "Gift Fund Goal",
+          "description": "Save £2/day for 10 days to prep for Christmas.",
+          "duration_days": 10,
+          "suggested_savings": 20,
+          "type": "Solo",
+          "badge": "Santa Saver",
+          "icon": "🎅",
+          "is_joined": false,
+          "progress": 0.0,
+          "rating": 0.0
+        }
+      ]
+    }
+  ]
+}
